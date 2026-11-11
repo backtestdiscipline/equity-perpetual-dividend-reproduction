@@ -1,0 +1,69 @@
+{
+  "description": "Post-seal documentary sources; not part of the sealed lineage",
+  "sources": [
+    {
+      "path": "data/followup/apple.html",
+      "url": "https://www.apple.com/newsroom/2026/04/apple-reports-second-quarter-results/",
+      "acquired": "2026-11-11",
+      "size": 140373,
+      "sha256": "f69329daf7bae248bc021945d0fc20f183e898910dcef6d99ac05530000375d6",
+      "checksum": "local SHA-256; publisher checksum not checked"
+    },
+    {
+      "path": "data/followup/nvda.pdf",
+      "url": "https://nvidianews.nvidia.com/_gallery/download_pdf/6a0e17dc3d633295d45282e6/",
+      "acquired": "2026-11-11",
+      "size": 77837,
+      "sha256": "e642fe7fe7c7dd8cbe1ffaaaf325644edf6b843c9df1380a5fca94e6e8572b02",
+      "checksum": "local SHA-256; publisher checksum not checked"
+    },
+    {
+      "path": "data/followup/googl.pdf",
+      "url": "https://s206.q4cdn.com/479360582/files/doc_financials/2026/q1/2026q1-alphabet-earnings-release.pdf",
+      "acquired": "2026-11-11",
+      "size": 127864,
+      "sha256": "a219b3b16dd2471faba3ab040154e29ee1ba61914de82ea82fb027038412d56b",
+      "checksum": "local SHA-256; publisher checksum not checked"
+    },
+    {
+      "path": "data/followup/nvda-ex.pdf",
+      "url": "https://df.bmogam.com/assets/static/ca-pdfs/ZNVD-distributions-1575244143-preliminary-en-US.pdf",
+      "acquired": "2026-11-11",
+      "size": 54064,
+      "sha256": "122cc193b226f43c5a88b1ab3762478c225a0f2fe70e2846e5e1c804b2c98d16",
+      "checksum": "local SHA-256; publisher checksum not checked"
+    },
+    {
+      "path": "data/followup/apple-ex.pdf",
+      "url": "https://df.bmogam.com/assets/static/ca-pdfs/ZAAP-distributions-16795568221-preliminary-en-US.pdf",
+      "acquired": "2026-11-11",
+      "size": 53843,
+      "sha256": "4409caad59f4da568d20b595ef4d64b2f571ff06ad17fa7d5a5de4c60cc1bfa3",
+      "checksum": "local SHA-256; publisher checksum not checked"
+    },
+    {
+      "path": "data/followup/msft-ex.pdf",
+      "url": "https://df.bmogam.com/assets/static/ca-pdfs/ZMSF-distributions-1577788996-preliminary-en-US.pdf",
+      "acquired": "2026-11-11",
+      "size": 54198,
+      "sha256": "760a8be0e76befc376e047259c9c4e742486c47771905c6be2fc0016330d82a7",
+      "checksum": "local SHA-256; publisher checksum not checked"
+    },
+    {
+      "path": "data/followup/meta-ex.pdf",
+      "url": "https://df.bmogam.com/assets/static/ca-pdfs/ZMET-distributions-15778854965-preliminary-en-US.pdf",
+      "acquired": "2026-11-11",
+      "size": 54135,
+      "sha256": "414a708f85d666880ef06d039e348459aab6e69040e2dbd8535ced3e129bb48b",
+      "checksum": "local SHA-256; publisher checksum not checked"
+    },
+    {
+      "path": "data/followup/goog-ex-class-c.pdf",
+      "url": "https://df.bmogam.com/assets/static/ca-pdfs/ZGOO-distributions-1575244145-preliminary-en-US.pdf",
+      "acquired": "2026-11-11",
+      "size": 54198,
+      "sha256": "c95b1d2b5a4196ab60f6aa74f9dcef7b1a785fec5759f8ccb55fd8ba477d4dc7",
+      "checksum": "local SHA-256; publisher checksum not checked"
+    }
+  ]
+}
